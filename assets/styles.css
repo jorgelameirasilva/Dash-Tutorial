@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    color:rgb(145, 143, 143);
+    margin: 70px 70px;
+    font-family: 'Notable', sans-serif;
+}
+
+body{
+    background: rgb(247, 244, 244);
+}
+
+.container{
+    display: flex;
+    height:600px;
+    justify-content: space-evenly;
+}
+
+.graph-01{
+    flex:0.9;
+}
+
+.radio{
+    margin-top: 10px;
+}
